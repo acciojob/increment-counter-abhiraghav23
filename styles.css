@@ -1,1 +1,15 @@
-/*  your css code here. If applicable */
+*{
+	background-color:yellow;
+}
+#incrementBtn{
+	background-color:Red;
+	color:white;
+	border:none;
+	border-radius:5px;
+	padding:10px;
+	margin-left:200px;
+}
+#counter{
+	margin-left:235px;
+	font-size:30px;
+}
